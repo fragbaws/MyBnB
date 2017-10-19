@@ -1,0 +1,14 @@
+1 1001 Nikolaj_Jasenko 20_Clondarrig_Court 300 140 3 4
+1 1002 Kamil_Cierpisz 21_Clondarrig_Court 350 140 3 4
+1 1003 Jim_Beam 22_Clondarrig_Court 400 140 3 4
+1 1004 James_Byrne 29_Clondarrig_Court 350 140 3 4
+1 1005 Neil_Hurley 30_Clondarrig_Court 325 140 3 4
+1 1006 Youssef_Mourad 31_Clondarrig_Court 405 140 3 4
+1 1007 Andy_Marsh 32_Clondarrig_Court 300 140 3 4
+2 2001 Temitope_Akinwale 23_Clondarrig_Court 200 200 2 20
+2 2002 Daniel_Wolski 24_Clondarrig_Court 250 200 2 30
+2 2003 Jakub_Bryszkowski 25_Clondarrig_Court 200 200 2 20
+2 2004 Milosz_Pistelok 34_Clondarrig_Court 250 200 2 20
+3 3001 Ernest_Kuzurov 26_Clondarrig_Court 500 100 4 50 20
+3 3002 Remik_Buchala 27_Clondarrig_Court 520 100 5 60 20
+3 3003 Ernest_Kuzurov 28_Clondarrig_Court 500 100 2 50 20
